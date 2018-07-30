@@ -2,7 +2,7 @@
 Comments sentiment classification
 
 
-2) Kaggle Comptetition challenge - 
+Kaggle Comptetition challenge - 
 
 Given  - large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
 
