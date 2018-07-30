@@ -18,12 +18,12 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/leaderboa
 
 Given  - large number of Wikipedia comments dataset have been labeled by human raters for toxic behavior. The types of toxicity are:
 
-toxic
-severe_toxic
-obscene
-threat
-insult
-identity_hate
+toxic, 
+severe_toxic, 
+obscene, 
+threat, 
+insult, 
+identity_hate, 
 
 in this project I created a model which predicts a probability of each type of toxicity for each comment. For experimentation I did it with Convolutional Neural network and then in a sedcond project I will do it with a LSTM/GRU based model to see how LSTM/GRU's are better for using such kind of datasets
 
